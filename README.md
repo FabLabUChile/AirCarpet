@@ -1,4 +1,4 @@
 AirCarpet
 =========
 
-Alfombra para compresión de aire y posterior generación de energía
+Carpet for air compression and subsequent energy generation.
