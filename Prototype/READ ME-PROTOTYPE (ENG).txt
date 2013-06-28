@@ -1,0 +1,71 @@
+Abstract:
+Following the way of work we had, we designed a prototype for the gaining of air, due to the requirements for energy generation. Thus, the main objective of this prototype is to test the unidirectional valves system and other several connections.
+
+Implements:
+	  _ 9 Racquetball balls: we chosen this because of the resistance, durability, and elastic memory. 
+	  _ 18 automatic bicycle valves: chosen because of the size and the low price
+	  _ 6 Rapid connections QSMT-6 (Tee Tube Fittings):
+To have efficient connections in the system, without losing air.
+          _ 3 Rapid connections QSML-6 (Elbow Tube Fitting): 
+To have efficient connections in the system, without losing air.
+          _ 1 Rapid connection QSMLX-6 (Cross Tube Fitting):
+This connection is used like an union between the tank and the carpet tube system.
+          _ 1 meter of polyurethane tube.
+	  _ 1 One-way check “H” type valve, with fitting ends QS-6: Valve that carries the flow only tho the tank
+
+Companies:
+         "Danus Conexiones S.A.":  Rapid connections and polyurethane tube.
+         "Festo S.A.": One-way check “H” type valve.
+         "El rey de las bicicletas": Automatic bicycle valves.
+         "Ektelon": Racquetball balls.
+
+Budget:
+                                                          Price per unit     Total price
+            _ 5 Racquetball balls pack (2 balls/pack) 	= $2705 (US$ 5,41)   $13825 (US$ 27,65)
+            _ 30 Automatic Valves                   	= $200  (US$ 0,40)   $6000 (US$ 12,00)
+            _ 6 Rapid connections QSMT-6               	= $1589 (US$3,17)    $9534 (US$ 19,00)
+            _ 3 Rapid connections QSML-6               	= $750 (US$1,50)     $2250 (US$ 4,50)
+            _ 1 Rapid connection QSMLX-6                = $1875 (US$ 3,75)   $1875 (US$ 3,75)
+            _ 5 meters of polyurethane tube          	= $525 (US$ 1,00)    $2625 (US$ 5,25)
+            _ 1 One-way check “H” type valve        	= $15974 (US$ 31,94) $15974 (US$ 31,94)
+
+                                     
+             TOTAL PRICE                                = $52083 (US$ 104,16)
+
+
+           * the prices that are irrelevant are not taking into account.
+
+
+Construction:
+	    _ Make a hole in a point of 2 cm of distance from  the racquetball ball equator, with a little diameter (less than the bicycle automatic valves diameter) and another hole of the same size in a point of 1 cm of distance from  the racquetball ball equator, but in the opposite side.
+
+             _ Insert under pressure an automatic valve with the air direction outside the ball, in the other hole we insert another bicycle automatic valve, but with the air direction inside the ball.
+ 
+             _ In the flattened side, apply glue for fix the valve with the outside air flow, do it carefully.
+              Do both of the procedures we mentioned with the 9 racquetballs balls.
+
+             _ Connect to 3 racquetball balls the QSML-6 (Elbow Tube Fittings. Connect to the last 6 racquetball balls the Tee Tube Fittings.
+
+             _ In a racquetball ball with Tee Tube Fitting connect another ball with an Elbow Tube Fitting, using the polyurethane tube. Then, connect the last one with another ball with the Tee Tube Fitting. Repeat this procedure 3 times, using the 9 balls
+              
+             _ The three group of balls are connected with the Cross Tube Fitting, and leaving a free end for the “H” type valve.
+
+Prototype Test: the main objective of the prototype is to search for flow loss points and analyze the system capacity for gain air. Also analyze the maximum pressure the system could resist.
+ 
+                TEST: "Ballon test"
+
+                          -Objective: Search for flow loss points and analyze the system capacity for gain air.
+
+                          -Procedure: put a ballon in the free end of the system (the free end for the "H" type valve) Then, press the racquetball balls.
+
+                          -Results: a) detection of flow loss points because non-well made connections.
+ 
+                                    b) fixing the flow loss points using glue (“Agorex” brand) and also fixing minimal details in the holes, there’s an effective system for store air in the ballon, inflating this completely, busting it without flow loss points and flow direction problems. 
+		
+               
+              
+
+
+
+
+              

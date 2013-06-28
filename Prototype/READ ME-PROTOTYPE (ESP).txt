@@ -1,0 +1,66 @@
+Introducción:
+             Siguiendo la linea de trabajo diseñamos un prototipo por el cual es posible el almacenamiento de aire para su uso posterior en la generación de energía. Por lo tanto el objetivo
+             de este prototipo es probar el sistema de válvulas unidireccionales y conexiones varias. 
+
+Materiales:
+           _ 9 Pelotas de Racquetball: Elegidas por su resistencia, durabilidad y memoria elástica.
+           _ 18 Válvulas automáticas de bicicleta: Elegidas por su bajo costo y tamaño.
+           _ 6 Conexiones rápidas QSMT-6 (conexión tipo "T"): Conexiones que permiten conectar las partes del sistema de manera eficiente (sin fugas).
+           _ 3 Conexiones rápidas QSML-6 (conexión tipo "codo"): Conexiones que permiten conectar las partes del sistema de manera eficiente (sin fugas).
+           _ 1 Conexión rápida QSMLX-6 (conexión tipo "cruz"): Conexión que nos sirve de puente entre el estanque y el sistema de tuberías que conforman la alfombra.
+           _ 1 metro de tubo  de puliuretano.
+           _ 1 Válvula antiretorno tipo "H" con ambos extremos Racor QS-6: Válvula que permite el flujo sólo hacia el estanque.
+
+Empresas:
+         "Danus conexiones S.A.":  Conexiones rápidas y tubo de poliuretano.
+         "Festo S.A.": Válvula antiretorno tipo "H".
+         "El rey de las bicicletas": Válvulas automáticas de bicicleta.
+         "Ektelon": Pelotas de Racquetball.
+
+Presupuesto:
+                                                               Precio Unitario                                                     Total
+            _ 5 Tarros de Racquetball (2 pelotas/tarro) =           $2705                                                          $13825
+            _ 30 Válvulas automáticas                   =            $200                                                           $6000
+            _ 6 Conexiones rápidas QSMT-6               =           $1589                                                           $9534
+            _ 3 Conexiones rápidas QSML-6               =            $750                                                           $2250
+            _ 1 Conexión rápida QSMLX-6                 =           $1875                                                           $1875
+            _ 5 metros de tubo  de puliuretano          =            $525 (por metro)                                               $2625
+            _ 1 Válvula antiretorno tipo "H"            =          $15974                                                          $15974
+                                     
+             TOTAL                                      =                                                                          $52083
+
+
+           *No hemos considerado en este presupuesto gastos que a nuestro parecer no eran importantes.
+
+
+Construcción:
+             _ Desde el ecuador de una pelota de Racquetball hacemos un agujero a 2 cm. de distancia con un diámetro menor al de las válvulas automáticas de bicicletas y otro agujero de
+              de las mismas características a 1 cm. del ecuador en la otra dirección.
+
+             _ Se incrusta a presión una válvula de bicicleta con dirección de aire hacia el exterior y en el otro agujero se aplana el área circundante al agujero para colocar una 
+              válvula en dirección contraria.
+ 
+             _ En la zona aplanda de aplica pegamento, vale decir, donde se encuentra la válvula que está con el flujo hacia el exterior, cuidando de no tapar la salida de ésta.
+              Este procedimiento (junto con los anteriores) se aplica a las 9 pelotas.
+
+             _ A 3 de las pelotas se procede a conectar la válvula "codo" y las otras 6 se conecta la válvula "T".
+
+             _ Una pelota con válvula de codo se conecta a otra pelota con válvula tipo "T" con el tubo de poliuretano y esta últmia con otra más de tipo "T".
+              Este procedimiento se repite 3 veces, ocupando así las 9 pelotas.
+
+             _ Los 3 grupos de pelotas se conectan con la válvula tipo "cruz" dejando una conexión libre para la válvula tipo "H".
+
+Testeo Prototipo: la finalidad del prototipo es analizar la capacidad del sistema de tuberías para almacenar aire, buscar fugas y analizar la presión máxima que este puede aguantar.
+
+                PRUEBA: "la prueba del globo"
+
+                          -Objetivo: búsqueda de fugas y análisis de la capacidad del sistema para alamcenar aire.
+
+                          -Procedimiento: se coloca un globo en el extremo libre del sistema (el extremo de la válvula tipo "H") y se comienza a presionar las pelotas.
+
+                          -Resultado: a) se detectan fugas en zonas mal conectadas del sistema.
+ 
+                                      b) una vez corregido el problema anterior (mediate el uso de pegamento marca "Agorex" y terminaciones mas "finas" de los agujeros hechos en las
+                                         pelotas) se logra almacenar aire en globo, inflándolo por completo hasta hacerlo reventar sin problemas de fugas o retorno de aire.
+		
+               
