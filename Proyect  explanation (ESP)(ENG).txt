@@ -1,0 +1,13 @@
+El proyecto consiste en crear una máquina capaz de generar energía por métodos no convencionales, véase solar, eólica, combustión, etc. 
+Nuestro proyecto se basa en generacion de energia mediante presion de aire.
+
+Idea básica: el sistema consta de una alfombra la cual "captura" el aire ambiental gracias a las pisadas de los usuarios para su posterior almacenamiento.
+Este aire es comprimido en un estanque en el cual alcanzada una presión límite el aire es liberado de golpe hacia una hélice conectada a un generador de energía. 
+
+
+The proyect consist in a machine capable of generate energy using non convencional methods such as solar, eolic, combustion, etc.
+Our proyect is based in the generation of energy by air pression.
+
+Basic Idea: the system consist of a carpet wich "captures" ambiental air thanks to the footsteps of the users for further storage.
+This air is compressed in a stank, once a limit air pressure is reached the air is released suddenly into a propeller connected to a power generator.
+               
