@@ -1,0 +1,31 @@
+Introduccion: probado que el concepto funciona procedimos a diseñar el proyecto final.
+
+Materiales: 
+                                                                   
+            _ 4 Tarros de Racquetball (2 pelotas/tarro) =           $2705                                                          $10820
+            _ 30 Válvulas automáticas                   =           $200                                                           $6000
+            _ 6 Conexiones union T                      =           $937                                                           $5622
+            _ 3 Conexiones rápidas QSML-6               =           $750                                                           $2250
+            _ 1 Conexión rápida QSMLX-6                 =           $1875                                                          $1875
+            _ 2 metro cuadrado acrilico 0.5mm           =                                                                          $84490
+            _ 1 estanque CO2 de paintball               =           $20000                                                         $20000
+            _ MADERA? (O.o)
+            _ 1kg pasta muro                            =           $600                                                           $600
+            _ Espatula 60mm                             =           $1440                                                          $1440
+            _ Lija para madera                          =           $70                                                            $70
+            _ Tarugo madera bolsa 100 unid.             =           $600                                                           $600
+            _ 100 tornillo vulcanita negro              =           $13                                                            $1300
+            _ 1kg articol normal                        =           $1200                                                          $1200
+            _
+                                                                                                                                       
+Diseño: es el mismo diseño basico del prototipo pero ampliado, la alfombra definitiva cuenta con 18 pelotas de racketball conectadas mediante conexiones rapidas
+tipo T y tipo Codo y tubos de poliuretano, todo el sistema converge a una välvula unirideccional Tipo H, la cuál se concta a una conexión tipo Cruz, esta se conecta
+a un manömetro, un estanque de paintball y a una válvula manual que nos permite abrir y cerrar el paso al aire almacenado en el estanque, esta vàlvula es accionada
+por un servo conectado a un arduino que a su vez se encuentra conectado al manómetro.
+
+Todo el sistena de pelotas y tubería se encuentra dentro de una caja especialmente diseñada de acrílico y madera (las piezas de acrílico y los planos generales de la
+caja se pueden encontrar dentro de esta carpeta.
+
+Funcionamiento: las pisadas sobre la alfombra provocan que el sistema alamcene aire comprimido en el estanque, cuando se llega a una presión determinada, el arduino 
+le da la orden al servo para que este abra la válvula manual y asi permitir la liberación del aire en el interior para su posterior uso.
+                  
