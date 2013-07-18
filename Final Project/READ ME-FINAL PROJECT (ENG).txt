@@ -1,0 +1,31 @@
+Abstract: Tested the prototype, we proceed to design the final project.
+
+Implements: 
+           
+                                                                    Price per unit        Total price (CLP)
+            _ 4 Racquetball balls pack (2 balls/pack)   =           $2705                  $10820                                          
+            _ 30 Automatic Valves                   	=           $200                   $6000                                         
+            _ 6 Connections "T" type union              =           $937                   $5622                                              
+            _ 3 Quick connections QSML-6 (elbow type)   =           $750                   $2250            
+            _ 1 Quick connection QSMLX-6                =           $1875                  $1875  
+            _ 2 m² of acrylic 0.5mm                     =                                  $84490   
+            _ 1 Paintball CO2 tank                      =           $20000                 $20000 
+            _ 0.9 mm thick plywood
+            _ 1kg of stucco                             =           $600                   $600                                                            
+            _ Spatula 60mm                              =           $1440                  $1440            
+            _ Wood Sandpaper                            =           $70                    $70                                                              
+            _ Black wooden dowel bag 100 unit.          =           $600                   $600                                                            
+            _ 100 black screw vulcanita                 =           $13                    $1300            
+            _ 1kg normal articol                        =           $1200                  $1200                                                             
+    
+
+Design: It is the same basic prototype design but expanded, the final shape will have 18 racquetball balls connected by quick connections "T" type union,
+"elbow" type and polyurethane's tubes. The system converges to a "H" type unidirectional valve, which is connected to "Cross" type connection,
+this connection connects to a manometer, to a cistern of Paintball and to a manual valve which allows open and close the step to air stored on the cistern,
+this valve it's driven for a servo connected to Arduino, at the same time this Arduino is connected to the manometer.
+
+The balls and pipeline's system is inside of a acrylic and wood box (the acrylic parts and the general planes of the box are inside of this folder)
+
+
+Operation: the footsteps on the carpet causes that the system stores compressed air in the cistern.When it reaches a certain pressure, the Arduino 
+commands the servo to open the manual valve and so allow the air release inside for it's later use.
