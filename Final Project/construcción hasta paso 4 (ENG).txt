@@ -1,0 +1,59 @@
+Construction: The construction is divided in 5 steps: the base, the cover, the system of pipelines, the reservoir and the generator of energy.
+
+Step 1: Base.
+                    -There is cut a plate of wood of 34,5cm of width, 55cm of length and of a height of 1cm (the high place only fulfills the function to make the base resistant).
+                    
+                    -There are cut 18 pieces of wood of 3cm of width, 3cm of length and a height of 2cm, these pieces will be floors where the balls will rest.
+                    
+                    -Of the stick of 1,5cm of diameter there are made 24 cylinders of 4cm of height to which there is done to them a perforation of 3cm of depth and 0,6cm of diameter, in this cavity we will introduce to pressure and with tail for wood the blockheads of 4,5cm of height, of this form we will construct columns, in which the cover will be supported.
+
+                    -One proceeds to fix the floors of wood trying that these remain just under the hole of the cover where the ball will go.
+
+                    -The same procedure of fixation for the columns that we construct, trying that the blockheads calzen with the holes specially done for these in the cover.
+
+                    -The whole base is sanded and a cap of pasta places wall for later colorcarle a cap of painting in aerosol.
+
+Step 2: Cover.
+                    -The design of the pieces is done in the program solid edge v16 (pieces and planes attached in folder "Piezas").
+           
+                    -The pieces cut in a cutting machine laser in material of acrylic.
+
+                    -Once cut they arm themselves and one proceeds to weld them with industrial chloroform using as tool a syringe (to see audio-visual material).  
+
+Step 3: Pipelines system.
+                    -To the ball there do to him two holes of a diameter of approximately the half of the diameter of the valves of bicycles to a distance one of other one of 3cm.
+
+                    -One proceeds to place the valves of bicycle to pressure for these small holes, with different directions, of this form we have a valve that captures the air of the environment and other one who expels the air inside the ball.
+
+                    -Using as tool the heat pistol we warm a chunk of the pipe of polyurethane of 3cm of length in order to place it in the valve that expels the air inside the pelota, once cooled this one still has the pipe firmly aderido, for major safety a few straps of plastic are placed to reinforce the union.
+
+                    -The last 3 steps are applied to 18 balls, giving us as result what it is possible to estimate in the image " System of captura.jpg ".
+
+                    -Finished the previous thing to 6 of 18 balls places them in the end of the pipe of polyurethane that they have a rapid connection adhered type elbow, at remaining 12 a.m. they a rapid connection places type T.
+
+                    -Then we form 6 trioes of 2 balls with connection T and one with connection elbow, every trio is connected by means of pipes of polyurethane like shows in the image "Trio.jpg".
+
+                    -A pipeline is done joining the connection in cross with 3 rapid connections type T and the valve I anti-come back (to see image "Tubería.jpg").
+
+                    -Finally we connect the trioes with the pipeline giving us like proved the image "Sistematuberias.jpg".
+
+Step 4: Reservoir.
+                    -The reservoir takes of paintball and one proceeds to perforate the unidirectional valve that comes integrated to this one this way to have a valve of free step (as group we had two options, to perforate the valve which was the chosen procedure or to buy a valve extra of high price that it was converting to the unidirectional valve into one of free step).
+
+                    -He places teflón on the coil of the reservoir (since this one is a macho) and it is proceeded to spin by the cross of iron galvanized of 1/2.
+
+                    -Then macho of the bushing proceeds to place teflón in three coils galvanized of 1/2x1/4, connecting his end of 1/2 to 3 remaining openings of the cross.
+
+                    -On the top Bushing the gauge connects with his respective teflón.
+
+                    -In one of the bushing the niple is connected nut galvanized and this one in turn is connected to the Minivalve ball 1/4.
+
+                    -To the remaining end there is placed a bushing that converts of coil 1/4 to rapid connection racor of 6mm.
+
+                    ( To see image " Sistema Estanque.jpg " and to consult audio-visual material)
+                 
+                    -The gauge "connects" to an Arduino ONE, this one in turn connects to an engine SERVO.
+
+                    -The engine SERVO ball is fixed to the Minivalve 1/4.
+
+                    -The Arduino is programmed in order that this one him from the order to the SERVO to open the Miniválvula once the gauge indicates that the pressure wished inside the reservoir exists.                               

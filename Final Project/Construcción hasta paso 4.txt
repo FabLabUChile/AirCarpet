@@ -1,0 +1,80 @@
+
+Construción: Se divide la construcción en 5 pasos: la base, la cubierta, el sistema de tuberías, el estanque y el generador de energía.
+
+Paso 1: Base. 
+                           -Se corta una plancha de madera de 34,5cm de ancho, 55cm de largo y de una altura de 1cm (el alto sólo cumple la función de hacer resistente la base).
+
+                           -Se cortan 18 piezas de madera de 3cm de ancho, 3cm de largo y una altura de 2cm, estas piezas serán pisos donde reposarán las pelotas.
+
+                           -Del palo de 1,5cm de diámetro se fabrican 24 cilindros de 4cm de altura a los cuales se les hace una perforación de 3cm de profundidad y 0,6cm
+                            de diámetro, en esta cavidad introduciremos a presión y con cola para madera los tarugos de 4,5cm de altura, de esta forma construiremos columnas,
+                            en las cuales se sostendrá la cubierta.
+
+                           -Se procede a fijar los pisos de madera procurando que estos queden justo bajo el agujero de la cubierta donde irá la pelota.
+
+                           -Mismo procedimiento de fijación para las columnas que construimos, procurando que los tarugos calzen con los agujeros especialmente hechos para estos
+                            en la cubierta.
+
+                           -Toda la base se lija y se le coloca una capa de pasta muro para posteriormente colorcarle una capa de pintura en aerosol.
+
+Paso 2: Cubierta.
+                           -Se hace el diseño de las piezas en el programa solid edge v16 (piezas y planos adjuntados en carpeta "Piezas").
+
+                           -Se cortan las piezas en una cortadora láser en material de acrílico.
+
+                           -Una vez cortadas se arman y se procede a soldarlas con cloroformo industrial usando como herramienta una jeringa (ver material audiovisual).
+
+Paso 3: Sistema de tuberías.
+                            -A la pelota se le hacen dos agujeros de un diametro de aproximadamente la mitad del diámetro de las válvulas de bicicletas
+                             a una distancia uno del otro de 3cm.
+                             
+                            -Se procede a colocar las válvulas de bicicleta a presión por estos pequeños agujeros, con direcciones distintas, de esta forma tenemos
+                             una válvula que captura el aire del ambiente y otra que expulsa el aire dentro de la pelota.
+                             
+                            -Usando como herramienta la pistola de calor calentamos un trozo del tubo de poliuretano de 3cm de largo con el fin de colocarlo en la
+                             válvula que expulsa el aire dentro de las pelota, una vez enfriado el tubo queda firmemente aderido a esta, para mayor seguridad se 
+                             colocan unas amarras de plastico para reforzar la unión.
+ 
+                            -Los 3 últimos pasos se aplican a las 18 pelotas, dándonos como resultado lo que se puede apreciar en la imagen "Sistema de captura.jpg".
+
+                            -Terminado lo anterior a 6 de las 18 pelotas se les coloca en el extremo del tubo de poliuretano que tienen adherido una conexión
+                             rápida tipo codo, a las 12 restantes se les coloca una conexión rápida tipo T.
+
+                            -Luego formamos 6 trios de 2 pelotas con conexión T y una con conexión codo, cada trio es conectado mediante tubos de poliuretano
+                             como se muestra en la imagen "Trio.jpg".
+
+                            -Se hace una tubería uniendo la conexión en cruz con 3 conexiones rápidas tipo T y la válvula Anti-retorno
+                             (ver imagen "Tubería.jpg").
+ 
+                            -Finalmente conectamos los trios con la tubería dándonos como resultado la imagen "Sistematuberias.jpg".
+
+Paso 4: Estanque.
+                           -Se toma el estanque de paintball y se procede a perforar la válvula unidireccional que viene integrada a este para así tener una válvula de libre
+                            paso (como grupo teníamos dos opciones, perforar la válvula lo cuál fue el procedimiento elegido o comprar una válvula extra de elevado precio
+                            que convertía a la válvula unidireccional en una de libre paso).
+
+                           -Se coloca teflón sobre la rosca del estanque (ya que esta es macho) y se procede a hilar con la cruz de hierro galvanizado de 1/2.
+
+                           -Luego se procede a colocar teflón en las tres roscas macho de los bushing galvanizados de 1/2x1/4, conectando su extremo de 1/2 a las 3 aberturas
+                            restantes de la cruz.
+
+                           -Sobre el Bushing superior se conecta el manómetro con su respectivo teflón.
+
+                           -En uno de los bushing es conectado el niple tuerca galvanizado y este a su vez es conectado a la Miniválvula bola 1/4.
+
+                           -Al extremo restante se coloca un bushing que convierte de rosca 1/4 a conexión rápida racor de 6mm.
+
+                           (ver imagen "Sistema Estanque.jpg" y consultar material audiovisual)
+
+                           -Se "conecta" el manómetro a un Arduino UNO, este a su vez se conecta a un motor SERVO.
+                
+                           -El motor SERVO es fijado a la Miniválvula bola 1/4.
+
+                           -Se programa al Arduino para que este le de la orden al SERVO de abrir las Miniválvula una vez el manómetro indique que existe la presión deseada
+                            dentro del estanque.
+
+                
+
+
+
+                            
